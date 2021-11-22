@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...SÇ
 
 - OS & IDE & Tools : <br />
-  [![MacOs]]()
+  [![MacOs]http://3.bp.blogspot.com/-tH5sbhuwQH0/TrWxEnPp7PI/AAAAAAAAABc/McL0gsr3HHw/s1600/logo-apple-actual11.jpg]()
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
 <br>
