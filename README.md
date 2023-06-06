@@ -3,6 +3,8 @@
 - Skills:  <br />
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+  [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
+
    <br />
 - So & Tools : <br />
   [![MacOs](https://img.shields.io/badge/-MacOs-C2C2C6?style=for-the-badge&logo=apple&logoColor=white)]()
