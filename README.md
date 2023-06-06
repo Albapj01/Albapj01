@@ -1,7 +1,7 @@
 ### Hi there 👋
 👩🏼‍💻 I'm Alba and I'm currently studying Computer Engineering on the Software mention at [University of Córdoba](http://www.uco.es/).
 
-I've been colaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) 🐧.
+I've been collaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) 🐧.
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-palomino-jim%C3%A9nez-966ab9222/)
 
