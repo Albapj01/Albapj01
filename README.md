@@ -23,4 +23,7 @@ I've been collaborating at [Aula de Software Libre](https://www.uco.es/aulasoftw
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![Windows](https://img.shields.io/badge/windows%2011-00BFFF?style=for-the-badge&logo=windows&logoColor=blue)](https://www.microsoft.com/es-es/windows/windows-11)
   
+## 🚀 My Github Stats:
 
+|![Albapj01 Github Stats](https://github-readme-stats.vercel.app/api?username=Albapj01&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Albapj01 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albapj01&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=Albapj01&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)|
+|---|---|
